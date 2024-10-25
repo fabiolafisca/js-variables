@@ -10,7 +10,7 @@ console-log(nome);
 // Stampa tutti i valori nella console.
 let number=2;
 console.log(number);
-let-text="testo";
+let text="testo";
 console.log(text);
 let bool=true;
 console.log(bool);
